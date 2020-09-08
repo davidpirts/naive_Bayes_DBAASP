@@ -5,3 +5,5 @@ Classify DBAASP peptides, based solely on the sequence (without using numerical 
 - model 1: sequence -> 2 features (1-frequency and 0-frequency) -> logistic regression
 
 - model 2: naive Bayes
+
+ Methods used are inspired by [the NLP specialization by deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing)
