@@ -6,4 +6,3 @@ Classify DBAASP peptides, based solely on the sequence (without using numerical 
 
 - model 2: naive Bayes
 
- Parts of the discussion are inspired by [the NLP specialization by deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing)
